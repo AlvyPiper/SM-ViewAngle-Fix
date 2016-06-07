@@ -1,5 +1,5 @@
 /*
-SMAC-ViewAngle-Fix
+SM-ViewAngle-Fix
 
 Copyright (C) 2016 Alvy Piper
 
