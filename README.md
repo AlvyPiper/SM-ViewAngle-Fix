@@ -9,6 +9,6 @@ If you wish to install this plugin, there's a few things one must do.
 3. Place "SMAC-ViewAngle-Fix.sp" in the folder.
 4. Open a command prompt, navigate to the same folder using your OS equivalent of the "cd" command.
 5. Run the script compiler.
-6. Open the "compiled" folder, then move "SMAC-ViewAngle-Fix.sp" to your "addons/sourcemod/plugins" folder.
+6. Open the "compiled" folder, then move "SMAC-ViewAngle-Fix.smx" to your "addons/sourcemod/plugins" folder.
 7. If the server is running, load the plugin or restart it.
 8. You're all set!
