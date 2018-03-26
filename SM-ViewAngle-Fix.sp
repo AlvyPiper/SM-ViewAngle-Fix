@@ -59,7 +59,7 @@ public Action:OnPlayerRunCmd(client, &buttons, &impulse, Float:vel[3], Float:ang
 			
 		if (angles[0] < -89.0)
 		{
-			angles[0] = 89.0;
+			angles[0] = -89.0;
 		}
 				
 		while (angles[1] > 180.0)
