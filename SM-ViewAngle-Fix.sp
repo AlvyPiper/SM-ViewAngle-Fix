@@ -27,11 +27,6 @@ new Float:oldpos[3];
 public Action:OnPlayerRunCmd(client, &buttons, &impulse, Float:vel[3], Float:angles[3], &weapon, &subtype, &cmdnum, &tickcount, &seed, mouse[2])
 {
 	new bool:alive = IsPlayerAlive(client);
-
-	if (cmdnum <= 0)
-	{
-		return Plugin_Handled;
-	}
 	
 	if(!alive)
 	{
